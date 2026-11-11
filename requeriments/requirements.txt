@@ -1,0 +1,3 @@
+# Install only application dependencies, constrained to the tested versions.
+-c requirements.lock.txt
+-e .
